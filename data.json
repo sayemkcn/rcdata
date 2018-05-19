@@ -1,6 +1,5 @@
 {
   "ramadan_dates": [
-    "17 May, Thursday",
     "18 May, Friday",
     "19 May, Saturday",
     "20 May, Sunday",
@@ -29,7 +28,8 @@
     "12 June, Tuesday",
     "13 June, Wednesday",
     "14 June, Thursday",
-    "15 June, Friday"
+    "15 June, Friday",
+    "16 June, Saturday"
   ],
   "standard_sehriTime": [
     "3:48am",
